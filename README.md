@@ -9,20 +9,45 @@ The platform supports both **text-based and voice-based interactions**, helping 
 
 ---
 
-## Features
+<!-- ## Features -->
 
-🌐 Multilingual Conversational AI — Enables interactive conversations across multiple languages with contextual understanding.
-🎙️ Voice & Text-Based Communication — Allows users to interact through text or speech and receive text and audio responses.
-🧠 Context-Aware Conversational Memory — Uses LangGraph to maintain conversation history and generate coherent, contextually relevant responses.
-✍️ Intelligent Grammar Correction — Helps learners identify grammatical errors and improve sentence construction.
-📚 Vocabulary Enhancement — Provides vocabulary suggestions and contextual language assistance during conversations.
-⚡ Real-Time AI Responses — Leverages Groq-hosted LLaMA models for fast, low-latency conversational inference.
-🗣️ Interactive Speaking Practice — Encourages users to develop speaking fluency through AI-powered conversations.
-🔊 Listening & Audio Practice — Supports listening practice through speech-based interactions and audio responses.
-🖥️ User-Friendly Web Interface — Built with Streamlit to provide a simple and accessible learning environment.
-🎯 Self-Paced Learning Experience — Allows learners to practice at their own pace through flexible, interactive sessions.
-💬 Personalized Learning Assistance — Provides context-aware feedback and language guidance based on ongoing conversations.
-🌍 Accessible Language Practice — Makes conversational language practice available without requiring a human conversation partner.
+## Key Features
+
+* **Multilingual Conversational AI**
+  Enables interactive conversations in multiple languages with contextual understanding.
+
+* **Voice & Text-Based Communication**
+  Allows users to interact through text or speech and receive text and audio responses.
+
+* **Context-Aware Conversational Memory**
+  Uses LangGraph to maintain conversation history and generate coherent, contextually relevant responses.
+
+* **Intelligent Grammar Correction**
+  Helps learners identify grammatical errors and improve sentence construction.
+
+* **Vocabulary Enhancement**
+  Provides vocabulary suggestions and contextual language assistance during conversations.
+
+* **Real-Time AI Responses**
+  Leverages Groq-hosted LLaMA models for fast, low-latency conversational inference.
+
+* **Interactive Speaking Practice**
+  Encourages users to develop speaking fluency through AI-powered conversations.
+
+* **Listening & Audio Practice**
+  Supports listening practice through speech-based interactions and audio responses.
+
+* **User-Friendly Web Interface**
+  Built with Streamlit to provide a simple and accessible learning environment.
+
+* **Self-Paced Learning Experience**
+  Allows learners to practice at their own pace through flexible, interactive sessions.
+
+* **Personalized Learning Assistance**
+  Provides context-aware feedback and language guidance based on ongoing conversations.
+
+* **Accessible Language Practice**
+  Makes conversational language practice available without requiring a human conversation partner.
 
 ---
 
@@ -63,7 +88,7 @@ Click the image above to watch the demo video showcasing the multilingual langua
 ### 💻 Local Deployment Demo
 This is how it works when this repository is cloned into your local system and run.
 
-[![Watch the Demo](Video-demo/thumbnail.png)](Video-demo/Voice%20AI%20Chatbot.mp4)
+[![Watch the Demo](Video-demo/thumbnail.jpg)](Video-demo/Voice%20AI%20Chatbot.mp4)
 
 Click the image above to watch the demo video showcasing the AI-powered voice chatbot running locally.
 
